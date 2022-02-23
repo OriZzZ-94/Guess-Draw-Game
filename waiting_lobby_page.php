@@ -21,7 +21,8 @@ session_start();
     <div class="row">
         <div class="col-sm-12">
             <div class="well ">
-             <h1>Hey Welcome to The Waiting Room please wait....</h1>	
+             <h1>Hey Welcome to The Waiting Room please wait....</h1>
+             <h3> Refresh to Continue!</h3>	
             </div>
         </div>
     </div>
