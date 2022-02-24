@@ -35,11 +35,19 @@ link https://www.apachefriends.org/index.html.
 
 
 **SCREENSHOTS**
-
+index.php:
 ![image](https://user-images.githubusercontent.com/70447976/155589036-fdb822a9-7509-4a77-95df-a1271a974c43.png)
+
+waiting_lobby_page.php:
 ![image](https://user-images.githubusercontent.com/70447976/155589126-b23a9e7f-eb68-42c9-89e4-7d92b3365613.png)
+
+word_choosing_view.php:
 ![image](https://user-images.githubusercontent.com/70447976/155589150-6c62ef55-ae4f-4023-a2f9-208a91d9faec.png)
+
+drawing_view.php:
 ![image](https://user-images.githubusercontent.com/70447976/155589197-9a675784-06ce-4b6f-b76a-def4827888cc.png)
+
+guessing_view.php:
 ![image](https://user-images.githubusercontent.com/70447976/155589216-54ccd0c1-5d1e-4120-b10d-ffa15e342f44.png)
 
 
