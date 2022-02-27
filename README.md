@@ -21,8 +21,8 @@ link https://www.apachefriends.org/index.html.
 7. you insert db name: guess_drawdb and click create look at the picture.
 ![image](https://user-images.githubusercontent.com/70447976/155573590-e320bb2b-edbb-454c-8948-2952cb041342.png).
 
-8. then you run the script of db in project in sql tab, you open db file from my project in VScode or other notepad and copy the code and then paste it in sql tab in phpmyadmin and press GO.
-![image](https://user-images.githubusercontent.com/70447976/155574248-f75c95c8-bc2d-452e-b98b-cc5350d6050d.png).
+8. then you run the script of db in project in import tab,click on the db we created look at the picture (yellow marker) and then click on import tab, choose db file from my project click choose file (choose script of db in my project) and press GO .
+![image](https://user-images.githubusercontent.com/70447976/155868980-8e088551-4bf6-4bde-a069-566444b1aa16.png).
 
 9. All done ! now you connect to the project http://**your ipv4**/**your folder name that you open in "htdocs"**/index.php
 
