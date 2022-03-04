@@ -49,12 +49,14 @@ word_choosing_view.php:
 ![image](https://user-images.githubusercontent.com/70447976/155589150-6c62ef55-ae4f-4023-a2f9-208a91d9faec.png)
 
 drawing_view.php:
+![image](https://user-images.githubusercontent.com/70447976/156776080-e39c257d-97ce-4d6c-a444-d8d6d4572de6.png)
 
-![image](https://user-images.githubusercontent.com/70447976/155589197-9a675784-06ce-4b6f-b76a-def4827888cc.png)
+
 
 guessing_view.php:
+![image](https://user-images.githubusercontent.com/70447976/156776125-6dd43054-50da-41b2-b582-0a42d78014b9.png)
 
-![image](https://user-images.githubusercontent.com/70447976/155589216-54ccd0c1-5d1e-4120-b10d-ffa15e342f44.png)
+
 
 
 
