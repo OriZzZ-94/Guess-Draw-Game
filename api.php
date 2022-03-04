@@ -5,6 +5,10 @@
 	}
 	
 	$MySQLdb = new PDO("mysql:host=127.0.0.1;dbname=guess_drawdb", "root", "");
+	if(!$MySQLdb)
+	{
+		die("Connection Failed".mysqli_connect_error());
+	}
 	$MySQLdb->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 
 	if(isset($_POST["action"])){
@@ -18,6 +22,7 @@
 		
 	}
 	if(isset($_POST["word"])){
+		$_SESSION["word"]=$_POST["word"];
 		$word=$_POST["word"];
 	}
 	if(isset($_POST["score"])){
